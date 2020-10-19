@@ -17,7 +17,7 @@ Arbeitslast     | 150 Stunden, davon 64 SWS (entspricht 4 SWS), 85 Stunden angel
 Die Veranstaltung wird auch Remote angeboten. Dafür wird entweder ein 
 Meeting-Room via Skype oder Hangouts zur Verfügung gestellt. 
 
-Zur Kommunikation und zum Teilen von Inhalten für alle steht ein [Slack](https://elpub5-2020.slack.com)
+Zur Kommunikation und zum Teilen von Inhalten für alle steht ein [Slack](https://bmb-elpub5-2020.slack.com)
 -Workspace bereit. (Der Workspace wird nach der Prüfung wieder entfernt).
 
 Nachfragen können natürlich auch via E-Mail gestellt werden.
